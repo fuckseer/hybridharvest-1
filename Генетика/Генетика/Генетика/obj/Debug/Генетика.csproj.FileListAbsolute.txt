@@ -1,0 +1,14 @@
+C:\CSAIO4D\Генетика\Генетика\bin\Debug\Генетика.exe.config
+C:\CSAIO4D\Генетика\Генетика\bin\Debug\Генетика.exe
+C:\CSAIO4D\Генетика\Генетика\bin\Debug\Генетика.pdb
+C:\CSAIO4D\Генетика\Генетика\obj\Debug\Генетика.csprojAssemblyReference.cache
+C:\CSAIO4D\Генетика\Генетика\obj\Debug\Генетика.Form1.resources
+C:\CSAIO4D\Генетика\Генетика\obj\Debug\Генетика.Properties.Resources.resources
+C:\CSAIO4D\Генетика\Генетика\obj\Debug\Генетика.csproj.GenerateResource.cache
+C:\CSAIO4D\Генетика\Генетика\obj\Debug\Генетика.csproj.CoreCompileInputs.cache
+C:\CSAIO4D\Генетика\Генетика\obj\Debug\Генетика.exe
+C:\CSAIO4D\Генетика\Генетика\obj\Debug\Генетика.pdb
+C:\CSAIO4D\Генетика\Генетика\obj\Debug\Генетика.Form2.resources
+C:\CSAIO4D\Генетика\Генетика\obj\Debug\Генетика.Form3.resources
+C:\CSAIO4D\Генетика\Генетика\obj\Debug\Генетика.Form4.resources
+C:\CSAIO4D\Генетика\Генетика\obj\Debug\Генетика.Form5.resources
